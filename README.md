@@ -2,4 +2,4 @@ Industrial Engineer working as Full Stack Data Scientist. Background in Operatio
 
 I build things, I work with data and I try to be right about what comes next.
 
-Mostly Python and TypeScript.
+Mostly Python and English.
